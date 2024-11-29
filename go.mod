@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/niccokunzmann/services.quelltext.eu
 
 go 1.23.3
 
