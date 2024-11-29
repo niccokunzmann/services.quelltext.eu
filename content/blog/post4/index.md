@@ -4,4 +4,5 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat 
 date: 2023-11-21
 authors:
   - John Doe: author.jpeg
+draft: true
 ---
