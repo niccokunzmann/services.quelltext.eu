@@ -3,34 +3,34 @@
 ############################
 
 author:
-  name: niccokunzmann
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  name: Nicco Kunzmann
+  image: author.jpg
+  greeting: "Open-source web services self-hosted."
+  icon: ":tree:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/niccokunzmann/services.quelltext.eu
-  - link: https://github.com/niccokunzmann/services.quelltext.eu#readme
+  - github: https://github.com/niccokunzmann/
+  # - link: https://github.com/niccokunzmann/services.quelltext.eu#readme
   # - website: 
   # - x-twitter: 
-  # - mastodon: 
+  - mastodon: https://toot.wales/@niccokunzmann
   # - linkedin: 
   # - instagram: 
   # - reddit: 
-  # - telegram: 
+  - telegram: +447726466688
   # - whatsapp: 
-  # - signal: 
+  - signal: +447726466688
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: niccokunzmann@rambler.ru
   # - discord: 
   # - orcid: 
   # - slack: 
-  # - stack-overflow: 
+  - stack-overflow: https://stackoverflow.com/users/1320237/user
   # - twitch: 
   # - patreon: 
   # - soundcloud: 
@@ -65,6 +65,6 @@ links:
 ###############################
 
 title: services.quelltext.eu
-description: "Site build with Qubt & Hugo"
+description: "Open-Source services hosted by Nicco Kunzmann"
 images:
-  - thumbnail.png
+  - author.jpg

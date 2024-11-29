@@ -2,7 +2,7 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://niccokunzmann.github.io/services.quelltext.eu"
+baseURL: "https://services.quelltext.eu"
 title: services.quelltext.eu
 
 ############################
@@ -11,5 +11,7 @@ title: services.quelltext.eu
 
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
-languageCode: "en-us"
+languageCode: "en-gb"
 enableRobotsTXT: true
+
+copyright:  '[services.quelltext.eu](https://services.quelltext.eu) by [Nicco Kunzmann](https://github.com/niccokunzmann/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
