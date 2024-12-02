@@ -5,7 +5,7 @@ summary: "I setup Unified Push service ntfy in a docker container behind Nginx P
 date: 2024-12-02
 cardimage: ntfy-card.png
 featureimage: ntfy-feature.png
-caption: The NTFY service runinning.
+caption: The NTFY service running.
 authors:
   - Nicco: author.jpeg
 ---
@@ -17,7 +17,7 @@ This blog post describes how to host it and configure Telegram, Signal, Matrix a
 ## Setup NTFY as a Docker Container
 
 
-In the `docker-compose.yml` that I created in [first], I add this:
+In the **docker-compose.yml** that I created in [first blog post][first], I add this:
 
 ```yaml
 # docker-compose.yml
@@ -46,7 +46,7 @@ services:
 
 ```
 
-This stores all the data of this push service in the `./ntfy` directory.
+This stores all the data of this push service in the **./ntfy** directory.
 This starts the service:
 
 ```sh
@@ -150,6 +150,8 @@ I use [Pachli](https://f-droid.org/en/packages/app.pachli/) for this reason.
 Go to Preferences ➡ Notifications and configure ntfy.
 
 {{< figArray subfolder="pachli" figCaption="Mastodon client Pachli configured to use my NTFY service." >}}
+
+Now, you can follow [@unifiedpush@fosstodon.org](https://fosstodon.org/@unifiedpush).
 
 ## Summary
 
