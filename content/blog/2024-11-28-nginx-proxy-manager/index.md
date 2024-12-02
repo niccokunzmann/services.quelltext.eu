@@ -96,7 +96,6 @@ In my case, I can visit [hosted.quelltext.eu] and see this:
 
 {{< figArray subfolder="success" figCaption="Nginx Proxy Manager is running successfully." >}}
 
-
 Now, you can use ssh port forwarding to configure the user account at port 81.
 
 
