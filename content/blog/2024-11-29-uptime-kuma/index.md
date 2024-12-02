@@ -43,7 +43,7 @@ docker compose up -d
 Note that at ths point, the service should be running fine.
 
 ```sh
-nicco@ubuntu-4gb-fsn1-1:~/services$ docker compose up -d
+services$ docker compose up -d
 [+] Running 2/0
  ✔ Container uptime-kuma                       Running      0.0s 
  ✔ Container services-nginx-proxy-manager-1    Running      0.0s 
